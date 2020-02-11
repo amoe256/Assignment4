@@ -17,6 +17,22 @@ artist {
     color: #6087ce;
 }
 
-title {
+song_title {
+    font-size: 26px;
+    font-weight: 150;
+    color: #6087ce;
+}
 
+genre {
+    display: block;
+    font-size: 20px;
+    color: black;
+    margin-left: 20px;
+}
+
+year {
+    display: block;
+    font-size: 20px;
+    color: black;
+    margin-left: 20px;
 }
