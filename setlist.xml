@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setlist>
+    <song1>
+        <artist>The Underachievers, Ivan Jackson</artist>
+        <title>Light Speed</title>
+        <genre>Rap</genre>
+        <year>2018</year>
+    </song1>
+    <song2>
+        <artist>The Underachievers</artist>
+        <title>Deebo</title>
+        <genre>Rap</genre>
+        <year>2019</year>
+    </song2>
+    <song3>
+        <artist>JPEGMAFIA</artist>
+        <title>Baby I'm Bleeding</title>
+        <genre>Hip Hop</genre>
+        <year>2017</year>
+    </song3>
+    <song4>
+        <artist>JPEGMAFIA</artist>
+        <title>The 27 Club</title>
+        <genre>Hip Hop</genre>
+        <year>2016</year>
+    </song4>
+    <song5>
+        <artist>Dreamville, Bas, Cozz, Girl Talk</artist>
+        <title>Outta Pocket (with Bas & Cozz feat. Girl Talk)</title>
+        <genre>Hip Hop</genre>
+        <year>2020</year>
+    </song5>
+    <song6>
+        <artist>Dreamville, Bas, Saba, Smino, The Hics</artist>
+        <title>Spin Move (with Bas feat. Saba, Smino & The Hics)</title>
+        <genre>Hip Hop</genre>
+        <year>2020</year>
+    </song6>
+    <song7>
+        <artist>Frank Ocean</artist>
+        <title>White Ferrari</title>
+        <genre>RNB</genre>
+        <year>2016</year>
+    </song7>
+    <song8>
+        <artist>Tame Impala</artist>
+        <title>Lost In Yesterday</title>
+        <genre>Psychedelic Rock</genre>
+        <year>2019</year>
+    </song8>
+    <song9>
+        <artist>Smino, Noir</artist>
+        <title>KLINK</title>
+        <genre>Hip Hop</genre>
+        <year>2017</year>
+    </song9>
+    <song10>
+        <artist>Tame Impala</artist>
+        <title>Remember Me</title>
+        <genre>Psychedelic Rock</genre>
+        <year>2009</year>
+    </song10>
+</setlist>
