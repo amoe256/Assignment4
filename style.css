@@ -1,0 +1,22 @@
+setlist {
+    background-color: antiquewhite;
+    width: 100%;
+    margin-left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+song {
+    display: block;
+    margin-top: 20px;
+    margin-left: 0;
+}
+
+artist {
+    font-size: 26px;
+    font-weight: 150;
+    color: #6087ce;
+}
+
+title {
+
+}

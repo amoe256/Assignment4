@@ -1,63 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type=“text/css” href = “style.css”?>
 <setlist>
-    <song1>
+    <song>
         <artist>The Underachievers, Ivan Jackson</artist>
-        <title>Light Speed</title>
+        <song_title>Light Speed</song_title>
         <genre>Rap</genre>
         <year>2018</year>
-    </song1>
+    </song>
     <song2>
         <artist>The Underachievers</artist>
-        <title>Deebo</title>
+        <song_title>Deebo</song_title>
         <genre>Rap</genre>
         <year>2019</year>
-    </song2>
-    <song3>
+    </song>
+    <song>
         <artist>JPEGMAFIA</artist>
-        <title>Baby I'm Bleeding</title>
+        <song_song_title>Baby I'm Bleeding</song_song_title>
         <genre>Hip Hop</genre>
         <year>2017</year>
-    </song3>
-    <song4>
+    </song>
+    <song>
         <artist>JPEGMAFIA</artist>
-        <title>The 27 Club</title>
+        <song_song_title>The 27 Club</song_title>
         <genre>Hip Hop</genre>
         <year>2016</year>
-    </song4>
-    <song5>
+    </song>
+    <song>
         <artist>Dreamville, Bas, Cozz, Girl Talk</artist>
-        <title>Outta Pocket (with Bas & Cozz feat. Girl Talk)</title>
+        <song_title>Outta Pocket</song_title>
         <genre>Hip Hop</genre>
         <year>2020</year>
-    </song5>
-    <song6>
+    </song>
+    <song>
         <artist>Dreamville, Bas, Saba, Smino, The Hics</artist>
-        <title>Spin Move (with Bas feat. Saba, Smino & The Hics)</title>
+        <song_title>Spin Move</song_title>
         <genre>Hip Hop</genre>
         <year>2020</year>
-    </song6>
-    <song7>
+    </song>
+    <song>
         <artist>Frank Ocean</artist>
-        <title>White Ferrari</title>
+        <song_title>White Ferrari</song_title>
         <genre>RNB</genre>
         <year>2016</year>
-    </song7>
-    <song8>
+    </song>
+    <song>
         <artist>Tame Impala</artist>
-        <title>Lost In Yesterday</title>
+        <song_title>Lost In Yesterday</song_title>
         <genre>Psychedelic Rock</genre>
         <year>2019</year>
-    </song8>
-    <song9>
+    </song>
+    <song>
         <artist>Smino, Noir</artist>
-        <title>KLINK</title>
+        <song_title>KLINK</song_title>
         <genre>Hip Hop</genre>
         <year>2017</year>
-    </song9>
-    <song10>
+    </song>
+    <song>
         <artist>Tame Impala</artist>
-        <title>Remember Me</title>
+        <song_title>Remember Me</song_title>
         <genre>Psychedelic Rock</genre>
         <year>2009</year>
-    </song10>
+    </song>
 </setlist>
